@@ -36,7 +36,7 @@
     "@mapd/connector": "5.5.2",
     "apache-arrow": "^4.0.1",
     "cwise": "^1.0.10",
-    "d3": "^6.0.0",
+    "d3": "^7.0.0",
     "ndarray": "^1.0.19",
     "ndarray-imshow": "git+https://github.com/domoritz/ndarray-imshow.git",
     "ndarray-linear-interpolate": "^1.0.0",
